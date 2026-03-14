@@ -1,1 +1,1 @@
-## Hi there 👋
+A browser extension that uses AI to rewrite hateful or abusive language and automatically corrects inaccurate or disrespectful references to people in online content. The goal is to provide users with a safer, more respectful browsing experience through client‑side, opt‑in language transformation.
